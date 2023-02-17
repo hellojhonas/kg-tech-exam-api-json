@@ -11,6 +11,7 @@ Fetch data from [https://api.coingecko.com/api/v3/exchange_rates](https://api.c
     2. Show an indicator whenever data is loaded.
     3. Show a notification at the end of the list when there is no more record to be shown.
 
+
 ## Expected Output
 
 ![expected](https://user-images.githubusercontent.com/91439231/219658896-bb68bb95-86ca-4f0c-8e63-b6a8f341be30.png)
