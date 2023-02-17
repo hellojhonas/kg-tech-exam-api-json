@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+div {
+  font-family: 'Montserrat', sans-serif;
+}
+.crypto-item {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  flex-direction: row;
+  background: rgba(255, 215, 215, 0.58);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(5.9px);
+  -webkit-backdrop-filter: blur(5.9px);
+  border: 1px solid rgba(244, 139, 139, 1);
+  margin: 20px;
+}
+
+img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.crypto-item .crypto-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.label {
+  font-weight: 700;
+}
+.name {
+  font-size: 1.2rem;
+  margin-bottom: 5px;
+}
+
+.rate {
+  font-size: 1.1rem;
+  margin-bottom: 5px;
+}
+
+.unit {
+  font-size: 1rem;
+  color: #666;
+}
+
+.search-container {
+  align-items: center;
+  margin: 10px;
+}
+
+.search-input {
+  padding: 10px;
+  border-radius: 5px;
+  border: 1.5px solid #514e4e;
+  width: 300px;
+  font-size: 16px;
+  margin: 0 auto;
+}
