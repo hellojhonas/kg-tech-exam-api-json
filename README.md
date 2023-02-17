@@ -13,8 +13,7 @@ Fetch data from [https://api.coingecko.com/api/v3/exchange_rates](https://api.c
 
 ## Expected Output
 
-![Expected Output]("./expected.png")
+![expected](https://user-images.githubusercontent.com/91439231/219658896-bb68bb95-86ca-4f0c-8e63-b6a8f341be30.png)
 
 ## My Output
-
-![My Output]("./output.png")
+![output](https://user-images.githubusercontent.com/91439231/219658939-8d85b02e-9b09-43fd-9ddd-d09dd7d19838.png)
